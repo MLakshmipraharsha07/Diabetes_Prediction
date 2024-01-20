@@ -78,3 +78,11 @@ python app.py<br>
 3. Click the "Predict" button.
 4. The application will display the predicted result, indicating whether the person is diabetic or not.
 
+# Output of the webpage:
+![Home Page](https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/a89cbd87-2825-48cd-8ebc-5e7d0978b32f)
+
+![Enter Values](https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/eb5aa5fd-d3ca-45bc-a714-ec85a195dc77)
+
+![Diabetic Person](https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/c779da16-b19e-432a-b05f-d5263cab53b3)
+
+![Non Diabetic Person](https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/051862bd-cbc5-4dc6-a215-fd6c3a02585a)
