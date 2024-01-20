@@ -86,3 +86,11 @@ python app.py<br>
 ![Diabetic Person](https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/c779da16-b19e-432a-b05f-d5263cab53b3)
 
 ![Non Diabetic Person](https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/051862bd-cbc5-4dc6-a215-fd6c3a02585a)
+
+## Demo Video of the Webpage:
+
+https://github.com/MLakshmipraharsha07/Diabetes_Prediction/assets/98521185/09958cc6-3bc9-4771-b8bc-37003607e094
+
+
+
+
